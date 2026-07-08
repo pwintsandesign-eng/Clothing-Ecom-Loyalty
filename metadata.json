@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Clothing E-Commerce",
+  "description": "A premium RESTYLE customized apparel store specializing in organic cotton tees and tailored denim with live fabric simulation, smart fit assistant, and a VIP loyalty club.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
